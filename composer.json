@@ -22,7 +22,7 @@
         "source" : "https://github.com/JustRaviga/laravel-deepl"
     },
     "require" : {
-        "php" : "^7.4|^8.0",
+        "php" : "^7.4|^8.0|^8.1|^8.2",
         "illuminate/support" : "^8.0|^9.0|^10.0",
         "guzzlehttp/guzzle" : "7.*|^6.5",
         "chriskonnertz/deeply" : "^2.0",
