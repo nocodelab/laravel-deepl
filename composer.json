@@ -1,5 +1,5 @@
 {
-    "name" : "justraviga/laravel-deepl",
+    "name" : "nocodelab/laravel-deepl",
     "description" : "Deepl Automated translations for Laravel lang files",
     "type" : "library",
     "license" : "MIT",
